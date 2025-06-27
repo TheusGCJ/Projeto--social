@@ -25,6 +25,14 @@ main{
     position: relative;
 }
 
+.tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 265px;
+    height: 467px;
+}
+
 .telefone{
     position: absolute;
     top: 50%;
