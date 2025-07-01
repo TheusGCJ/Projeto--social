@@ -42,3 +42,22 @@ main{
     width: 311px;
     background: url(../imagens/frame-iphone.png) no-repeat, fixed;
 }
+
+.redesociais{
+    text-align: right;
+   
+}
+
+.redesociais img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
+    box-sizing: border-box;
+}
+
+.redesociais img:hover{
+    border: 2px solid rgba(255, 255, 255, 0.644);
+    transform: translate(-3px, -3px);
+    transition: transform 0.2s;
+}
